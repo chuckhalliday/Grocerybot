@@ -1,0 +1,1 @@
+Communicate with your cookbooks via openai embeddings for meal planning and grocery lists

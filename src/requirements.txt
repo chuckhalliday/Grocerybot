@@ -1,0 +1,8 @@
+asgiref==3.8.1
+    # via django
+django==4.1.13
+gunicorn==23.0.0
+packaging==24.1
+    # via django
+sqlparse==0.5.1
+    # via django
