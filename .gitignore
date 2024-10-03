@@ -19,3 +19,9 @@ venv/
 node_modules/
 .env
 .cache
+variables.tf
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.terraform
+rav.yaml
